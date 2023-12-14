@@ -1,0 +1,29 @@
+#navbar{
+    display: flex;
+    font-size:0px ;
+    font-family: monospace;
+    border: 1px solid;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#optionvalue{
+    font-size: 0%;
+}
+#search{
+    font-size: 22px;
+    width: 80px;
+    margin-left:0px;
+    
+}
+#searchA{
+    font-size: 15px;
+    margin-bottom: px;
+}
+.pp{
+    margin-left: 1300px;
+    margin-right: 0px;
+}
+.id1{}
+.id2{}
+.id3{}
+.id4{}
